@@ -1,0 +1,23 @@
+[b]Developer:[/b] Out Limits Team
+[b]Jenre:[/b] [i]Action, RPG, Slasher[/i]
+[b]Жанр:[/b] [i]Экшн, Ролевая игра, Слэшер[/i]
+[b]Setting:[/b] [i]Sci-Fi, Fantasy, Dark Fantasy, Cyberpunk[/i]
+[b]Атмосфера:[/b] [i]Научная фантастика, Фэнтези, Тёмное фэнтези, Киберпанк[/i]
+[b]Players:[/b] [i]Single[/i]
+[b]Режим:[/b] [i]Одиночный[/i]
+[b]Game Engine:[/b] [i]Unreal Engine 4[/i]
+[b]Игровой движок:[/b] [i]Unreal Engine 4[/i]
+[b]Short Story:[/b] 
+[i]We tell about war events on planet - Cefeus, where you can find magic, technology and hybrids. First scene - technology, second scene - magic. And you can learn about how these events have connected. Wellcome.[/i]
+[b]Кратка история[/b]
+[i]Мы расскажем о военных событиях на планете Цефея, где вы сможете найти магию, технологию и гибриды. Первая сцена - технология, вторая сцена - магия. И вы сможете узнать каким образом соединились эти события[/i]
+[b]Features: [/b]
+[list]
+[*]Combination skills - you can build your unique skill combination for melee or range weapon
+[*]Melee mouse arm controll - use your mouse for live strike controll
+[*]Left and right arm action - use right or left arm
+[*]Gunkata - special system for auto direction shoots and create auto marks
+[*]Interaction with world - environment your weapon
+[*]Magic interaction with world - use magic for interaction with weather and objects on scene
+[*]Spell system - captivate your weapon, create your spell from dual elements, use environment
+[/list]
